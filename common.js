@@ -131,4 +131,5 @@ function gourl(url, type) {
 		else
 		    window.location.href = url;
 	},2000) //2秒
+
 }
